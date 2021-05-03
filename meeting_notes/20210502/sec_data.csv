@@ -1,0 +1,281 @@
+,filed_date,transaction_date,reporter,transaction_type,transaction_id,amount,relationship
+0,2021-04-30,2021-04-16,"Ron L Wyden [Wyden, Ron]",Sale (Full),19a274dd-2f9c-4468-b9f2-dc68f2d2ac6b,"$50,001 - $100,000",--Spouse
+1,2021-04-30,2021-04-16,"Ron L Wyden [Wyden, Ron]",Sale (Full),19a274dd-2f9c-4468-b9f2-dc68f2d2ac6b,"$50,001 - $100,000",--Spouse
+2,2021-04-30,2021-04-01,"Ron L Wyden [Wyden, Ron]",Purchase,19a274dd-2f9c-4468-b9f2-dc68f2d2ac6b,"$15,001 - $50,000",--Spouse
+3,2021-04-26,2021-03-31,"Patrick J Toomey [Toomey, Pat]",Purchase,37a7e285-49c2-425c-a02a-c40330e2e52b,"$1,001 - $15,000","Aiara is a new investment of SRI Capital Fund I, LP (""SRI""), a venture capital fund. Sen. Toomey and his wife have a limited partnership interest in SRI.Joint"
+4,2021-04-23,2021-04-06,"Rick Scott [Scott, Rick]",Purchase,d5f6be77-a2f6-49c5-8f4d-e299ffae70db,"$500,001 - $1,000,000",--Spouse
+5,2021-04-23,2021-03-26,"Rick Scott [Scott, Rick]",Purchase,d5f6be77-a2f6-49c5-8f4d-e299ffae70db,"$100,001 - $250,000",--Self
+6,2021-04-22,2021-04-15,"Gary C Peters [Peters, Gary]",Purchase,084b183f-b04b-4d5d-98d4-3c3768a099ab,"$1,001 - $15,000",--Self
+7,2021-04-22,2021-03-22,"Gary C Peters [Peters, Gary]",Exchange,084b183f-b04b-4d5d-98d4-3c3768a099ab,"$1,001 - $15,000",--Self
+8,2021-04-16,2021-04-05,"Ladda Tammy Duckworth [Duckworth, Tammy]",Sale (Full),d746dd73-17e0-4fb7-9228-f410962653c0,"$15,001 - $50,000",--Joint
+9,2021-04-16,2021-04-05,"Ladda Tammy Duckworth [Duckworth, Tammy]",Sale (Partial),d746dd73-17e0-4fb7-9228-f410962653c0,"$1,001 - $15,000",--Joint
+10,2021-04-16,2021-04-05,"Ladda Tammy Duckworth [Duckworth, Tammy]",Sale (Full),d746dd73-17e0-4fb7-9228-f410962653c0,"$1,001 - $15,000",--Joint
+11,2021-04-13,2021-03-05,"Daniel S Sullivan [Sullivan, Dan]",Sale (Partial),378080ec-6299-4274-a5e6-aa4f68577985,"$15,001 - $50,000","The filer's portfolio is managed by a third party investment professional. The filer was advised of these transactions on April 13, 2021. This activity is part of an ongoing long-term portfolio diversification strategy that regularly includes similar transactionsJoint"
+12,2021-04-12,2021-03-29,"Mark R Warner [Warner, Mark]",Sale (Full),57115c4a-d7fd-47d0-ad5b-597aff5656ea,"$1,000,001 - $5,000,000",--Self
+13,2021-04-12,2021-03-03,"Shelley M Capito [Capito, Shelley Moore]",Purchase,ab7ffb25-df44-407d-9972-1608b7be4861,"$100,001 - $250,000",--Spouse
+14,2021-04-12,2021-03-09,"Shelley M Capito [Capito, Shelley Moore]",Purchase,ab7ffb25-df44-407d-9972-1608b7be4861,"$1,001 - $15,000",--Spouse
+15,2021-04-12,2021-03-09,"Shelley M Capito [Capito, Shelley Moore]",Purchase,ab7ffb25-df44-407d-9972-1608b7be4861,"$1,001 - $15,000",--Spouse
+16,2021-04-12,2021-03-09,"Shelley M Capito [Capito, Shelley Moore]",Purchase,ab7ffb25-df44-407d-9972-1608b7be4861,"$1,001 - $15,000",--Spouse
+17,2021-04-12,2021-03-24,"Shelley M Capito [Capito, Shelley Moore]",Purchase,ab7ffb25-df44-407d-9972-1608b7be4861,"$15,001 - $50,000",--Spouse
+18,2021-04-12,2021-03-25,"Shelley M Capito [Capito, Shelley Moore]",Sale (Partial),ab7ffb25-df44-407d-9972-1608b7be4861,"$1,001 - $15,000",--Spouse
+19,2021-04-09,2021-04-06,"Ron L Wyden [Wyden, Ron]",Sale (Partial),c4771ad7-1434-4eb6-a5b8-d53fa8f70249,"$100,001 - $250,000",--Spouse
+20,2021-04-09,2021-04-06,"Ron L Wyden [Wyden, Ron]",Sale (Partial),c4771ad7-1434-4eb6-a5b8-d53fa8f70249,"$100,001 - $250,000",--Spouse
+21,2021-04-09,2021-04-06,"Ron L Wyden [Wyden, Ron]",Sale (Full),c4771ad7-1434-4eb6-a5b8-d53fa8f70249,"$100,001 - $250,000",--Spouse
+22,2021-04-09,2021-04-06,"Ron L Wyden [Wyden, Ron]",Sale (Full),c4771ad7-1434-4eb6-a5b8-d53fa8f70249,"$100,001 - $250,000",--Spouse
+23,2021-04-09,2021-04-06,"Ron L Wyden [Wyden, Ron]",Sale (Full),c4771ad7-1434-4eb6-a5b8-d53fa8f70249,"$15,001 - $50,000",--Spouse
+24,2021-04-09,2021-04-06,"Ron L Wyden [Wyden, Ron]",Sale (Full),c4771ad7-1434-4eb6-a5b8-d53fa8f70249,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #3Child
+25,2021-04-09,2021-04-06,"Ron L Wyden [Wyden, Ron]",Sale (Full),c4771ad7-1434-4eb6-a5b8-d53fa8f70249,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #2Child
+26,2021-04-09,2021-04-06,"Ron L Wyden [Wyden, Ron]",Sale (Full),c4771ad7-1434-4eb6-a5b8-d53fa8f70249,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #1Child
+27,2021-04-08,2021-03-26,"William F Hagerty, IV [Hagerty, Bill]",Purchase,6788596d-6a54-4caf-a73c-f03f5d2f6e5f,"$15,001 - $50,000","Asset held by Roundstone Ventures, LLCSelf"
+28,2021-04-08,2021-03-31,"Susan M Collins [Collins, Susan M.]",Purchase,46d660a1-eca6-48cf-976e-bb7f49946397,"$100,001 - $250,000",--Spouse
+29,2021-04-08,2021-03-16,"Susan M Collins [Collins, Susan M.]",Purchase,46d660a1-eca6-48cf-976e-bb7f49946397,"$50,001 - $100,000",--Spouse
+30,2021-04-02,2021-03-30,"Ron L Wyden [Wyden, Ron]",Sale (Partial),37d25209-4ff8-4113-a8d2-bb4b2810351e,"$1,001 - $15,000",--Spouse
+31,2021-04-02,2021-03-05,"Ron L Wyden [Wyden, Ron]",Purchase,37d25209-4ff8-4113-a8d2-bb4b2810351e,"$1,001 - $15,000",--Spouse
+32,2021-04-02,2021-03-04,"Ron L Wyden [Wyden, Ron]",Purchase,37d25209-4ff8-4113-a8d2-bb4b2810351e,"$1,001 - $15,000",--Spouse
+33,2021-04-02,2021-03-04,"Ron L Wyden [Wyden, Ron]",Purchase,37d25209-4ff8-4113-a8d2-bb4b2810351e,"$1,001 - $15,000",--Spouse
+34,2021-04-01,2021-03-26,"Thomas R Carper [Carper, Thomas R.]",Purchase,52d54a0a-b378-441c-8a5b-38007a211b78,"$15,001 - $50,000",--Spouse
+35,2021-04-01,2021-03-26,"Thomas R Carper [Carper, Thomas R.]",Purchase,52d54a0a-b378-441c-8a5b-38007a211b78,"$15,001 - $50,000",--Spouse
+36,2021-04-01,2021-03-24,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),52d54a0a-b378-441c-8a5b-38007a211b78,"$15,001 - $50,000",--Spouse
+37,2021-04-01,2021-03-24,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),52d54a0a-b378-441c-8a5b-38007a211b78,"$15,001 - $50,000",--Spouse
+38,2021-04-01,2021-03-01,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),52d54a0a-b378-441c-8a5b-38007a211b78,"$1,001 - $15,000",--Spouse
+39,2021-04-01,2021-02-12,"John W Hickenlooper [Hickenlooper, John]",Purchase,e3f4d9c3-2ada-4fad-9e67-3941095a8f0c,"$1,001 - $15,000",--Spouse
+40,2021-04-01,2021-02-18,"John W Hickenlooper [Hickenlooper, John]",Purchase,e3f4d9c3-2ada-4fad-9e67-3941095a8f0c,"$1,001 - $15,000",--Spouse
+41,2021-03-23,2021-02-26,"Ron L Wyden [Wyden, Ron]",Purchase,32a40eaa-a4a2-4bc3-a594-1c05cbe0531b,"$1,001 - $15,000",--Spouse
+42,2021-03-23,2021-02-26,"Ron L Wyden [Wyden, Ron]",Purchase,32a40eaa-a4a2-4bc3-a594-1c05cbe0531b,"$1,001 - $15,000",--Spouse
+43,2021-03-23,2021-02-26,"Ron L Wyden [Wyden, Ron]",Purchase,32a40eaa-a4a2-4bc3-a594-1c05cbe0531b,"$1,001 - $15,000",--Spouse
+44,2021-03-16,2021-03-03,"A. Mitchell McConnell, Jr [McConnell, A. Mitchell Jr.]",Purchase,ed8c186c-c456-4ce6-a8d7-4e8cc7175fd3,"$1,001 - $15,000",Dividend ReinvestmentSpouse
+45,2021-03-14,2021-02-23,"Shelley M Capito [Capito, Shelley Moore]",Sale (Full),3542ce53-b0e3-46a1-92f5-8f32c262fe3d,"$1,001 - $15,000",--Spouse
+46,2021-03-14,2021-02-23,"Shelley M Capito [Capito, Shelley Moore]",Purchase,3542ce53-b0e3-46a1-92f5-8f32c262fe3d,"$50,001 - $100,000",--Spouse
+47,2021-03-14,2021-02-08,"Shelley M Capito [Capito, Shelley Moore]",Sale (Partial),3542ce53-b0e3-46a1-92f5-8f32c262fe3d,"$1,001 - $15,000",--Spouse
+48,2021-03-10,2021-02-05,"Mark R Warner [Warner, Mark]",Sale (Partial),39693df5-619c-4640-ab14-d54f0786ba3a,"$100,001 - $250,000","Underlying asset of Sachs Capital - Empire B, LLCSelf"
+49,2021-03-10,2021-02-11,"Susan M Collins [Collins, Susan M.]",Purchase,32550a8f-923e-416f-84f3-e19ab4f148b1,"$50,001 - $100,000",--Spouse
+50,2021-03-10,2021-02-09,"Susan M Collins [Collins, Susan M.]",Purchase,32550a8f-923e-416f-84f3-e19ab4f148b1,"$15,001 - $50,000",--Spouse
+51,2021-03-09,2021-02-09,"Patrick J Toomey [Toomey, Pat]",Purchase,b5a212bb-ad2c-48e4-9d21-db8d13f8ee78,"$1,001 - $15,000",Child #2Child
+52,2021-03-04,2021-03-01,"Christopher A Coons [Coons, Chris]",Sale (Partial),b65c1aeb-1831-4da3-ae45-eddb7a270abe,"$250,001 - $500,000",--Self
+53,2021-03-03,2021-02-05,"Thomas R Carper [Carper, Thomas R.]",Exchange,32f5972d-f18a-4bd7-be67-4a856a5b9ff7,"$1,001 - $15,000",--Spouse
+54,2021-03-03,2021-02-16,"Thomas R Carper [Carper, Thomas R.]",Purchase,32f5972d-f18a-4bd7-be67-4a856a5b9ff7,"$1,001 - $15,000",--Spouse
+55,2021-03-03,2021-02-12,"Thomas R Carper [Carper, Thomas R.]",Purchase,32f5972d-f18a-4bd7-be67-4a856a5b9ff7,"$1,001 - $15,000",--Spouse
+56,2021-03-03,2021-02-12,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),32f5972d-f18a-4bd7-be67-4a856a5b9ff7,"$1,001 - $15,000",--Spouse
+57,2021-03-03,2021-02-12,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),32f5972d-f18a-4bd7-be67-4a856a5b9ff7,"$1,001 - $15,000",--Spouse
+58,2021-03-03,2021-02-12,"Thomas R Carper [Carper, Thomas R.]",Purchase,32f5972d-f18a-4bd7-be67-4a856a5b9ff7,"$1,001 - $15,000",--Spouse
+59,2021-03-03,2021-02-12,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),32f5972d-f18a-4bd7-be67-4a856a5b9ff7,"$1,001 - $15,000",--Spouse
+60,2021-03-03,2021-02-12,"Thomas R Carper [Carper, Thomas R.]",Purchase,32f5972d-f18a-4bd7-be67-4a856a5b9ff7,"$1,001 - $15,000",--Spouse
+61,2021-02-24,2021-01-11,"William F Hagerty, IV [Hagerty, Bill]",Purchase,331fc417-1f96-4a2e-a164-b15fc2493281,"$50,001 - $100,000",Asset held by Christine B. Hagerty Irrevocable TrustChild
+62,2021-02-24,2021-01-11,"William F Hagerty, IV [Hagerty, Bill]",Purchase,331fc417-1f96-4a2e-a164-b15fc2493281,"$50,001 - $100,000",Asset held by Tara E. Hagerty Irrevocable TrustChild
+63,2021-02-24,2021-01-11,"William F Hagerty, IV [Hagerty, Bill]",Purchase,331fc417-1f96-4a2e-a164-b15fc2493281,"$50,001 - $100,000",Asset held by Stephen L. Hagerty Irrevocable TrustChild
+64,2021-02-24,2021-01-11,"William F Hagerty, IV [Hagerty, Bill]",Purchase,331fc417-1f96-4a2e-a164-b15fc2493281,"$50,001 - $100,000",Asset held by William F. Hagerty V Irrevocable TrustChild
+65,2021-02-24,2021-01-11,"William F Hagerty, IV [Hagerty, Bill]",Purchase,331fc417-1f96-4a2e-a164-b15fc2493281,"$250,001 - $500,000","Asset held by Roundstone Ventures, LLCSelf"
+66,2021-02-19,2021-01-22,"John W Hickenlooper [Hickenlooper, John]",Purchase,f8e43fad-614c-4bc7-b13c-8e075c40869d,"$50,001 - $100,000",--Spouse
+67,2021-02-19,2021-02-16,"William F Hagerty, IV [Hagerty, Bill]",Sale (Full),823ec2b1-9e0c-4b13-bf35-81722c1a083c,"$15,001 - $50,000",--Self
+68,2021-02-19,2021-01-19,"William F Hagerty, IV [Hagerty, Bill]",Sale (Partial),823ec2b1-9e0c-4b13-bf35-81722c1a083c,"$15,001 - $50,000",--Self
+69,2021-02-19,2021-01-08,"William F Hagerty, IV [Hagerty, Bill]",Sale (Partial),823ec2b1-9e0c-4b13-bf35-81722c1a083c,"$1,001 - $15,000",--Self
+70,2021-02-19,2021-01-26,"William F Hagerty, IV [Hagerty, Bill]",Purchase,823ec2b1-9e0c-4b13-bf35-81722c1a083c,"$1,001 - $15,000",--Self
+71,2021-02-19,2021-01-08,"William F Hagerty, IV [Hagerty, Bill]",Purchase,823ec2b1-9e0c-4b13-bf35-81722c1a083c,"$1,001 - $15,000",--Self
+72,2021-02-18,2021-01-20,"Ron L Wyden [Wyden, Ron]",Purchase,a0a26d20-b140-444b-b562-9d73de4c6bd9,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #3Child
+73,2021-02-18,2021-01-20,"Ron L Wyden [Wyden, Ron]",Purchase,a0a26d20-b140-444b-b562-9d73de4c6bd9,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #2Child
+74,2021-02-18,2021-01-20,"Ron L Wyden [Wyden, Ron]",Purchase,a0a26d20-b140-444b-b562-9d73de4c6bd9,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #1Child
+75,2021-02-18,2021-01-27,"Ron L Wyden [Wyden, Ron]",Purchase,a0a26d20-b140-444b-b562-9d73de4c6bd9,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #3Child
+76,2021-02-18,2021-01-27,"Ron L Wyden [Wyden, Ron]",Purchase,a0a26d20-b140-444b-b562-9d73de4c6bd9,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #3Child
+77,2021-02-18,2021-01-27,"Ron L Wyden [Wyden, Ron]",Purchase,a0a26d20-b140-444b-b562-9d73de4c6bd9,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #3Child
+78,2021-02-18,2021-01-27,"Ron L Wyden [Wyden, Ron]",Purchase,a0a26d20-b140-444b-b562-9d73de4c6bd9,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #2Child
+79,2021-02-18,2021-01-27,"Ron L Wyden [Wyden, Ron]",Purchase,a0a26d20-b140-444b-b562-9d73de4c6bd9,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #2Child
+80,2021-02-18,2021-01-27,"Ron L Wyden [Wyden, Ron]",Purchase,a0a26d20-b140-444b-b562-9d73de4c6bd9,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #2Child
+81,2021-02-18,2021-01-27,"Ron L Wyden [Wyden, Ron]",Purchase,a0a26d20-b140-444b-b562-9d73de4c6bd9,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #1Child
+82,2021-02-18,2021-01-27,"Ron L Wyden [Wyden, Ron]",Purchase,a0a26d20-b140-444b-b562-9d73de4c6bd9,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #1Child
+83,2021-02-18,2021-01-27,"Ron L Wyden [Wyden, Ron]",Purchase,a0a26d20-b140-444b-b562-9d73de4c6bd9,"$1,001 - $15,000",Underlying asset of Fidelity Brokerage - Dependent #1Child
+84,2021-02-08,2021-01-27,"Jerry Moran [Moran, Jerry]",Sale (Full),7b095739-bb31-4b09-965f-5ac00e2c1321,"$1,001 - $15,000",--Spouse
+85,2021-02-08,2021-01-27,"Jerry Moran [Moran, Jerry]",Sale (Full),7b095739-bb31-4b09-965f-5ac00e2c1321,"$1,001 - $15,000",--Self
+86,2021-02-08,2021-01-28,"Patrick J Toomey [Toomey, Pat]",Sale (Full),7d15a774-58c7-45bf-889a-ff2b0aff5cc6,"$1,001 - $15,000",Child #2Child
+87,2021-02-08,2021-01-27,"Patrick J Toomey [Toomey, Pat]",Sale (Full),7d15a774-58c7-45bf-889a-ff2b0aff5cc6,"$1,001 - $15,000",Child #2Child
+88,2021-02-08,2021-01-27,"Patrick J Toomey [Toomey, Pat]",Purchase,7d15a774-58c7-45bf-889a-ff2b0aff5cc6,"$1,001 - $15,000",Child #2Child
+89,2021-02-08,2021-01-27,"Patrick J Toomey [Toomey, Pat]",Sale (Full),7d15a774-58c7-45bf-889a-ff2b0aff5cc6,"$1,001 - $15,000",Child #2Child
+90,2021-02-02,2021-01-15,"Gary C Peters [Peters, Gary]",Purchase,cf66f482-baa0-409c-abdd-b9cfcbb5fd4e,"$1,001 - $15,000",--Self
+91,2021-02-02,2021-01-15,"Gary C Peters [Peters, Gary]",Purchase,cf66f482-baa0-409c-abdd-b9cfcbb5fd4e,"$1,001 - $15,000",--Self
+92,2021-02-01,2021-01-29,"Thomas R Carper [Carper, Thomas R.]",Purchase,ae5e8414-35c1-44f7-9549-700e9453a96a,"$15,001 - $50,000",--Spouse
+93,2021-02-01,2021-01-27,"Thomas R Carper [Carper, Thomas R.]",Sale (Partial),ae5e8414-35c1-44f7-9549-700e9453a96a,"$15,001 - $50,000",--Spouse
+94,2021-02-01,2021-01-26,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+95,2021-02-01,2021-01-26,"Thomas R Carper [Carper, Thomas R.]",Purchase,ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+96,2021-02-01,2021-01-25,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+97,2021-02-01,2021-01-25,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+98,2021-02-01,2021-01-13,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+99,2021-02-01,2021-01-13,"Thomas R Carper [Carper, Thomas R.]",Purchase,ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+100,2021-02-01,2021-01-13,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+101,2021-02-01,2021-01-13,"Thomas R Carper [Carper, Thomas R.]",Purchase,ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+102,2021-02-01,2021-01-11,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+103,2021-02-01,2021-01-11,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+104,2021-02-01,2021-01-11,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+105,2021-02-01,2021-01-11,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+106,2021-02-01,2021-01-11,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+107,2021-02-01,2021-01-11,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+108,2021-02-01,2021-01-11,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+109,2021-02-01,2021-01-11,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+110,2021-02-01,2021-01-11,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+111,2021-02-01,2021-01-08,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+112,2021-02-01,2021-01-04,"Thomas R Carper [Carper, Thomas R.]",Purchase,ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+113,2021-02-01,2021-01-04,"Thomas R Carper [Carper, Thomas R.]",Purchase,ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+114,2021-02-01,2021-01-04,"Thomas R Carper [Carper, Thomas R.]",Purchase,ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+115,2021-02-01,2021-01-04,"Thomas R Carper [Carper, Thomas R.]",Purchase,ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+116,2021-02-01,2021-01-04,"Thomas R Carper [Carper, Thomas R.]",Purchase,ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+117,2021-02-01,2021-01-04,"Thomas R Carper [Carper, Thomas R.]",Purchase,ae5e8414-35c1-44f7-9549-700e9453a96a,"$1,001 - $15,000",--Spouse
+118,2021-01-25,2020-12-30,"Sheldon Whitehouse [Whitehouse, Sheldon]",Sale (Full),b960f3a6-2f53-4273-bae6-b61e983e6d60,"$1,001 - $15,000",Redemption of Called BondJoint
+119,2021-01-15,2021-01-05,"James M Inhofe [Inhofe, James M.]",Sale (Partial),81de3681-e5ac-4205-896a-07512dbac921,"$1,001 - $15,000",--Self
+120,2021-01-14,2020-11-16,Pat Roberts [Former Senator],Purchase,4f809324-f54d-48b7-af27-46f6657857f3,"$15,001 - $50,000",555Spouse
+121,2021-01-14,2020-11-24,Pat Roberts [Former Senator],Purchase,4f809324-f54d-48b7-af27-46f6657857f3,"$15,001 - $50,000",555Spouse
+122,2021-01-14,2020-11-09,Pat Roberts [Former Senator],Sale (Full),4f809324-f54d-48b7-af27-46f6657857f3,"$15,001 - $50,000",sepSpouse
+123,2021-01-14,2020-11-11,Pat Roberts [Former Senator],Purchase,4f809324-f54d-48b7-af27-46f6657857f3,"$15,001 - $50,000",sepSpouse
+124,2021-01-14,2020-11-17,Pat Roberts [Former Senator],Purchase,4f809324-f54d-48b7-af27-46f6657857f3,"$15,001 - $50,000",RJoint
+125,2021-01-14,2020-11-16,Pat Roberts [Former Senator],Purchase,4f809324-f54d-48b7-af27-46f6657857f3,"$1,001 - $15,000",RSpouse
+126,2021-01-14,2020-11-16,Pat Roberts [Former Senator],Purchase,4f809324-f54d-48b7-af27-46f6657857f3,"$15,001 - $50,000",RSpouse
+127,2021-01-14,2020-11-16,Pat Roberts [Former Senator],Sale (Full),4f809324-f54d-48b7-af27-46f6657857f3,"$15,001 - $50,000",RSpouse
+128,2021-01-14,2020-11-10,Pat Roberts [Former Senator],Purchase,4f809324-f54d-48b7-af27-46f6657857f3,"$1,001 - $15,000",RSpouse
+129,2021-01-14,2020-11-09,Pat Roberts [Former Senator],Sale (Full),4f809324-f54d-48b7-af27-46f6657857f3,"$50,001 - $100,000",RSpouse
+130,2021-01-14,2020-11-09,Pat Roberts [Former Senator],Sale (Full),4f809324-f54d-48b7-af27-46f6657857f3,"$15,001 - $50,000",RSpouse
+131,2021-01-13,2020-12-07,"Mark R Warner [Warner, Mark]",Purchase,7269bd5f-a8b1-43ea-9f8b-5d0bb4cfde73,"$1,000,001 - $5,000,000",--Self
+132,2021-01-12,2020-12-17,"Rick Scott [Scott, Rick]",Purchase,fe83be59-4d6a-4ade-8163-a12b214d71ab,"$500,001 - $1,000,000",--Spouse
+133,2021-01-12,2020-12-31,"Shelley M Capito [Capito, Shelley Moore]",Purchase,5a42cbe1-4c6a-48f6-a2e1-f3652f50340a,"$1,001 - $15,000",--Spouse
+134,2021-01-12,2020-12-31,"Shelley M Capito [Capito, Shelley Moore]",Purchase,5a42cbe1-4c6a-48f6-a2e1-f3652f50340a,"$1,001 - $15,000",--Spouse
+135,2021-01-12,2020-12-31,"Shelley M Capito [Capito, Shelley Moore]",Purchase,5a42cbe1-4c6a-48f6-a2e1-f3652f50340a,"$1,001 - $15,000",--Spouse
+136,2021-01-12,2020-12-31,"Shelley M Capito [Capito, Shelley Moore]",Sale (Full),5a42cbe1-4c6a-48f6-a2e1-f3652f50340a,"$1,001 - $15,000",--Spouse
+137,2021-01-12,2020-12-31,"Shelley M Capito [Capito, Shelley Moore]",Sale (Full),5a42cbe1-4c6a-48f6-a2e1-f3652f50340a,"$1,001 - $15,000",--Spouse
+138,2021-01-12,2020-12-31,"Shelley M Capito [Capito, Shelley Moore]",Sale (Full),5a42cbe1-4c6a-48f6-a2e1-f3652f50340a,"$1,001 - $15,000",--Spouse
+139,2021-01-12,2020-12-31,"Shelley M Capito [Capito, Shelley Moore]",Sale (Full),5a42cbe1-4c6a-48f6-a2e1-f3652f50340a,"$1,001 - $15,000",--Spouse
+140,2021-01-12,2020-12-31,"Shelley M Capito [Capito, Shelley Moore]",Sale (Partial),5a42cbe1-4c6a-48f6-a2e1-f3652f50340a,"$1,001 - $15,000",--Spouse
+141,2021-01-12,2020-12-31,"Shelley M Capito [Capito, Shelley Moore]",Sale (Full),5a42cbe1-4c6a-48f6-a2e1-f3652f50340a,"$1,001 - $15,000",--Self
+142,2021-01-12,2020-12-15,"Shelley M Capito [Capito, Shelley Moore]",Sale (Full),5a42cbe1-4c6a-48f6-a2e1-f3652f50340a,"$15,001 - $50,000",--Spouse
+143,2021-01-12,2020-12-16,"Susan M Collins [Collins, Susan M.]",Sale (Full),2f96648f-acf8-4f28-9e05-ad1d6ebac36d,"$50,001 - $100,000",--Spouse
+144,2021-01-08,2020-12-07,"Patrick J Toomey [Toomey, Pat]",Purchase,88b55682-a6d5-44c9-85c4-1c42e91737f3,"$1,001 - $15,000","DreamVu is an underlying investment of SRI Capital Fund I, LP (""SRI""), a venture capital fund. Sen. Toomey and his wife have a limited partnership interest in SRI. SRI further invested in DreamVu in December. This transaction represents Sen. Toomey's share of that investment.Joint"
+145,2021-01-08,2020-12-07,"Patrick J Toomey [Toomey, Pat]",Purchase,88b55682-a6d5-44c9-85c4-1c42e91737f3,"$1,001 - $15,000","Meddo is an underlying investment of SRI Capital Fund I, LP (""SRI""), a venture capital fund. Sen. Toomey and his wife have a limited partnership interest in SRI. SRI further invested in Meddo in December. This transaction represents Sen. Toomey's share of that investment.Joint"
+146,2021-01-08,2020-12-22,"Patrick J Toomey [Toomey, Pat]",Sale (Partial),88b55682-a6d5-44c9-85c4-1c42e91737f3,"$1,001 - $15,000",Child #2Child
+147,2021-01-08,2020-12-22,"Patrick J Toomey [Toomey, Pat]",Purchase,88b55682-a6d5-44c9-85c4-1c42e91737f3,"$1,001 - $15,000",Child #2Child
+148,2021-01-07,2020-12-30,"Thomas R Carper [Carper, Thomas R.]",Purchase,0c7816ca-9df7-4ed1-af40-4590dd17209f,"$1,001 - $15,000",--Spouse
+149,2021-01-07,2020-12-30,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),0c7816ca-9df7-4ed1-af40-4590dd17209f,"$1,001 - $15,000",--Spouse
+150,2021-01-07,2020-12-30,"Thomas R Carper [Carper, Thomas R.]",Sale (Partial),0c7816ca-9df7-4ed1-af40-4590dd17209f,"$1,001 - $15,000",--Spouse
+151,2021-01-07,2020-12-30,"Thomas R Carper [Carper, Thomas R.]",Sale (Partial),0c7816ca-9df7-4ed1-af40-4590dd17209f,"$1,001 - $15,000",--Spouse
+152,2021-01-07,2020-12-30,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),0c7816ca-9df7-4ed1-af40-4590dd17209f,"$1,001 - $15,000",--Spouse
+153,2021-01-07,2020-12-30,"Thomas R Carper [Carper, Thomas R.]",Purchase,0c7816ca-9df7-4ed1-af40-4590dd17209f,"$1,001 - $15,000",--Spouse
+154,2021-01-07,2020-12-30,"Thomas R Carper [Carper, Thomas R.]",Purchase,0c7816ca-9df7-4ed1-af40-4590dd17209f,"$1,001 - $15,000",--Spouse
+155,2021-01-07,2020-12-30,"Thomas R Carper [Carper, Thomas R.]",Purchase,0c7816ca-9df7-4ed1-af40-4590dd17209f,"$1,001 - $15,000",--Spouse
+156,2021-01-07,2020-12-15,"Thomas R Carper [Carper, Thomas R.]",Purchase,0c7816ca-9df7-4ed1-af40-4590dd17209f,"$1,001 - $15,000",--Spouse
+157,2021-01-05,2020-12-14,"Gary C Peters [Peters, Gary]",Purchase,e405f3e2-7f99-4124-a457-14dcb85a9532,"$1,001 - $15,000",--Self
+158,2020-12-31,2020-12-22,"Pat Roberts [Roberts, Pat]",Purchase,70614aca-cf77-4a70-b0c8-245a097a7350,"$15,001 - $50,000",RSpouse
+159,2020-12-31,2020-12-22,"Pat Roberts [Roberts, Pat]",Purchase,70614aca-cf77-4a70-b0c8-245a097a7350,"$1,001 - $15,000",RSpouse
+160,2020-12-31,2020-12-22,"Pat Roberts [Roberts, Pat]",Purchase,70614aca-cf77-4a70-b0c8-245a097a7350,"$15,001 - $50,000",RSpouse
+161,2020-12-31,2020-12-21,"Pat Roberts [Roberts, Pat]",Purchase,70614aca-cf77-4a70-b0c8-245a097a7350,"$15,001 - $50,000",RSpouse
+162,2020-12-31,2020-12-21,"Pat Roberts [Roberts, Pat]",Purchase,70614aca-cf77-4a70-b0c8-245a097a7350,"$50,001 - $100,000",RSpouse
+163,2020-12-31,2020-12-21,"Pat Roberts [Roberts, Pat]",Purchase,70614aca-cf77-4a70-b0c8-245a097a7350,"$1,001 - $15,000",RSpouse
+164,2020-12-31,2020-12-21,"Pat Roberts [Roberts, Pat]",Sale (Partial),70614aca-cf77-4a70-b0c8-245a097a7350,"$100,001 - $250,000",RSpouse
+165,2020-12-31,2020-12-21,"Pat Roberts [Roberts, Pat]",Sale (Full),70614aca-cf77-4a70-b0c8-245a097a7350,"$50,001 - $100,000",RSpouse
+166,2020-12-31,2020-12-21,"Pat Roberts [Roberts, Pat]",Sale (Full),70614aca-cf77-4a70-b0c8-245a097a7350,"$1,001 - $15,000",RSpouse
+167,2020-12-31,2020-12-11,"Pat Roberts [Roberts, Pat]",Purchase,70614aca-cf77-4a70-b0c8-245a097a7350,"$1,001 - $15,000",RSpouse
+168,2020-12-31,2020-12-07,"Pat Roberts [Roberts, Pat]",Purchase,70614aca-cf77-4a70-b0c8-245a097a7350,"$15,001 - $50,000",RSpouse
+169,2020-12-31,2020-12-07,"Pat Roberts [Roberts, Pat]",Purchase,70614aca-cf77-4a70-b0c8-245a097a7350,"$1,001 - $15,000",RSpouse
+170,2020-12-31,2020-12-04,"Pat Roberts [Roberts, Pat]",Sale (Full),70614aca-cf77-4a70-b0c8-245a097a7350,"$15,001 - $50,000",RSpouse
+171,2020-12-31,2020-12-22,"Pat Roberts [Roberts, Pat]",Purchase,70614aca-cf77-4a70-b0c8-245a097a7350,"$15,001 - $50,000",555Spouse
+172,2020-12-31,2020-12-22,"Pat Roberts [Roberts, Pat]",Purchase,70614aca-cf77-4a70-b0c8-245a097a7350,"$15,001 - $50,000",sepSpouse
+173,2020-12-31,2020-12-16,"Pat Roberts [Roberts, Pat]",Sale (Partial),70614aca-cf77-4a70-b0c8-245a097a7350,"$100,001 - $250,000",sepSpouse
+174,2020-12-31,2020-12-02,"Pat Roberts [Roberts, Pat]",Purchase,70614aca-cf77-4a70-b0c8-245a097a7350,"$15,001 - $50,000",sepSpouse
+175,2020-12-29,2020-12-15,"Patrick J Toomey [Toomey, Pat]",Exchange,e7497c89-fd35-45a2-9293-9a2ba89acff6,"$15,001 - $50,000",Exchange of stock due to partial corporate spin-off and renaming.Self
+176,2020-12-29,2020-12-08,"Patrick J Toomey [Toomey, Pat]",Exchange,e7497c89-fd35-45a2-9293-9a2ba89acff6,"$1,001 - $15,000",Exchange of stock due to corporate spin-off of the legacy assets and liabilities of NTRP not merged into PTPI.Self
+177,2020-12-29,2020-12-02,"Patrick J Toomey [Toomey, Pat]",Exchange,e7497c89-fd35-45a2-9293-9a2ba89acff6,"$1,001 - $15,000",Exchange of stock due to corporate merger.Self
+178,2020-12-29,2020-11-30,"Patrick J Toomey [Toomey, Pat]",Purchase,e7497c89-fd35-45a2-9293-9a2ba89acff6,"$1,001 - $15,000",Shares acquired through special dividend issued by AIV in the form of stock.Self
+179,2020-12-23,2020-12-22,"James M Inhofe [Inhofe, James M.]",Sale (Partial),718cad12-9007-40fc-adc8-ee044397186b,"$50,001 - $100,000",--Self
+180,2020-12-23,2020-12-15,"James M Inhofe [Inhofe, James M.]",Sale (Partial),718cad12-9007-40fc-adc8-ee044397186b,"$50,001 - $100,000",--Self
+181,2020-12-21,2020-11-24,"Rick Scott [Scott, Rick]",Purchase,c3050c14-89e4-4775-8e61-8031d2139cfa,"$500,001 - $1,000,000",--Spouse
+182,2020-12-21,2020-11-24,"Rick Scott [Scott, Rick]",Purchase,c3050c14-89e4-4775-8e61-8031d2139cfa,"$500,001 - $1,000,000",--Spouse
+183,2020-12-21,2020-11-24,"Rick Scott [Scott, Rick]",Purchase,c3050c14-89e4-4775-8e61-8031d2139cfa,"$250,001 - $500,000",--Spouse
+184,2020-12-10,2020-11-17,"Jacklyn S Rosen [Rosen, Jacky]",Exchange,3152e433-26a5-4926-80af-3bb78ea21833,"$1,001 - $15,000",--Joint
+185,2020-12-09,2020-11-20,"Mark R Warner [Warner, Mark]",Purchase,8a358a66-5b4a-45b3-80af-97cfb2256d97,"$50,001 - $100,000",--Self
+186,2020-12-09,2020-11-16,"Mark R Warner [Warner, Mark]",Sale (Full),8a358a66-5b4a-45b3-80af-97cfb2256d97,"$1,000,001 - $5,000,000","Underlying asset of Echo Bridge Realty Fund, I L.P.Self"
+187,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+188,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+189,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+190,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+191,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+192,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+193,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+194,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+195,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+196,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+197,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+198,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+199,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+200,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+201,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+202,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+203,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+204,2020-12-08,2020-11-05,"William Cassidy [Cassidy, Bill]",Sale (Full),809e5655-0208-4723-a0d6-1a47d81dd3e2,"$1,001 - $15,000",--Spouse
+205,2020-12-07,2020-12-03,"A. Mitchell McConnell, Jr [McConnell, A. Mitchell Jr.]",Purchase,dba1fc54-346e-48f1-b96c-62bc43cdd8a1,"$1,001 - $15,000",Dividend ReinvestmentSpouse
+206,2020-12-04,2020-11-10,"Ron L Wyden [Wyden, Ron]",Sale (Full),a0010f4a-c31a-4824-8b6d-6399b3ccb6f0,"$50,001 - $100,000",--Spouse
+207,2020-12-03,2020-11-16,"Pat Roberts [Roberts, Pat]",Purchase,b7e581e7-f154-4dc7-890d-1c827c88ba7a,"$15,001 - $50,000",RSpouse
+208,2020-12-03,2020-11-16,"Pat Roberts [Roberts, Pat]",Purchase,b7e581e7-f154-4dc7-890d-1c827c88ba7a,"$15,001 - $50,000",555Spouse
+209,2020-12-03,2020-11-24,"Pat Roberts [Roberts, Pat]",Purchase,b7e581e7-f154-4dc7-890d-1c827c88ba7a,"$15,001 - $50,000",555Spouse
+210,2020-12-03,2020-11-09,"Pat Roberts [Roberts, Pat]",Sale (Full),b7e581e7-f154-4dc7-890d-1c827c88ba7a,"$15,001 - $50,000",sepSpouse
+211,2020-12-03,2020-11-11,"Pat Roberts [Roberts, Pat]",Purchase,b7e581e7-f154-4dc7-890d-1c827c88ba7a,"$15,001 - $50,000",sepSpouse
+212,2020-12-03,2020-11-17,"Pat Roberts [Roberts, Pat]",Purchase,b7e581e7-f154-4dc7-890d-1c827c88ba7a,"$15,001 - $50,000",RJoint
+213,2020-12-03,2020-11-16,"Pat Roberts [Roberts, Pat]",Purchase,b7e581e7-f154-4dc7-890d-1c827c88ba7a,"$1,001 - $15,000",RSpouse
+214,2020-12-03,2020-11-16,"Pat Roberts [Roberts, Pat]",Sale (Full),b7e581e7-f154-4dc7-890d-1c827c88ba7a,"$15,001 - $50,000",RSpouse
+215,2020-12-03,2020-11-10,"Pat Roberts [Roberts, Pat]",Purchase,b7e581e7-f154-4dc7-890d-1c827c88ba7a,"$1,001 - $15,000",RSpouse
+216,2020-12-03,2020-11-09,"Pat Roberts [Roberts, Pat]",Sale (Partial),b7e581e7-f154-4dc7-890d-1c827c88ba7a,"$50,001 - $100,000",RSpouse
+217,2020-12-03,2020-11-09,"Pat Roberts [Roberts, Pat]",Sale (Full),b7e581e7-f154-4dc7-890d-1c827c88ba7a,"$15,001 - $50,000",RSpouse
+218,2020-12-02,2020-11-30,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+219,2020-12-02,2020-11-30,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$15,001 - $50,000",--Spouse
+220,2020-12-02,2020-11-30,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$15,001 - $50,000",--Spouse
+221,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+222,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+223,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+224,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+225,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+226,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+227,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+228,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+229,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+230,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+231,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+232,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+233,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+234,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+235,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+236,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+237,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+238,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+239,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+240,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+241,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+242,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+243,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+244,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+245,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+246,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+247,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+248,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+249,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+250,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+251,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+252,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+253,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+254,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+255,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+256,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+257,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+258,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+259,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+260,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+261,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+262,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+263,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+264,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+265,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Sale (Partial),35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+266,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+267,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+268,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+269,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Sale (Partial),35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+270,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Sale (Partial),35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+271,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+272,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+273,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Sale (Partial),35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$50,001 - $100,000",--Spouse
+274,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+275,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Sale (Full),35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+276,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+277,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+278,2020-12-02,2020-11-20,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
+279,2020-12-02,2020-11-16,"Thomas R Carper [Carper, Thomas R.]",Purchase,35aec3a8-60a7-4f06-bae3-3b202949e5e5,"$1,001 - $15,000",--Spouse
