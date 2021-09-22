@@ -68,7 +68,6 @@ def get_data(ticker, start_date = None, end_date = None, index_as_date = True,
 
 stock_info.get_data = get_data
 
-
 end_date = datetime.datetime.now().date()
 start_date = end_date - datetime.timedelta(days=365 * 2)
 

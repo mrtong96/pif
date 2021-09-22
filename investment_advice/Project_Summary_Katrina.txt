@@ -1,0 +1,49 @@
+Phase 1: Politician Index Fund
+
+	Goal was to provide investment recommendations by using public data on politician investments and transactions
+
+	The assumption is that politicians are able to make better investment decisions
+
+	Using Keras
+
+	However, this model failed since it was unable to make predictions more accurate than random guessing
+
+		One possible reason was that our assumption that politicians make better investment decisions than the general public was flawed
+
+			Maybe only certain politicians are making better investment decisions. The difficulty is knowing which politicians.
+		
+		Another possible reason was that there was not enough data to train the model successfully. It was possible the model needed more politician investment data in order to make accurate predictions.
+
+
+Phase 2: Math-based investment strategy
+
+	A research paper (https://maslov.bioengineering.illinois.edu/optimal_investment_ijtaf.pdf)  used statistics in order to calculate the optimal investment strategy
+	
+	Goal was to implement this method in our code
+
+	Did not involve any machine learning
+	
+	Inputs
+
+		Max number of stocks (desired max number of stocks to be recommended to invest in)
+
+		Investment windows days (length of time user plans to hold these stocks before selling)
+
+		Start date (how far back to look at historical data of stocks to provide better recommendations)
+
+	Outputs
+
+		Ticker names with corresponding recommended investment proportions
+
+		Expected total return (mean)
+
+		Variance and standard deviation
+
+		Confidence intervals (probability that expected return will fall within a range)
+
+	This method appeared to be successful since the stocks recommended seemed to have mostly positive trends
+
+
+
+
+
