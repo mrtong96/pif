@@ -14,10 +14,19 @@ Phase 1: Politician Index Fund
 		
 		Another possible reason was that there was not enough data to train the model successfully. It was possible the model needed more politician investment data in order to make accurate predictions.
 
+# talk a lot more about the process of data collection and training models
+# * like what kind of data did you collect?
+# * what kind of models did you train?
+# * the guessing wasn't actually random, read the code again or ask Michael
+# * talk more about the what you hoped to see in the results and didn't
+# * can talk about some of the model iterations we tried and failed to get working (there was more than one model attempt)
+# * what assumptions did we make in the model? (Reality is hard, we always simplify reality in modeling problems)
 
 Phase 2: Math-based investment strategy
 
-	A research paper (https://maslov.bioengineering.illinois.edu/optimal_investment_ijtaf.pdf)  used statistics in order to calculate the optimal investment strategy
+	A research paper (https://maslov.bioengineering.illinois.edu/optimal_investment_ijtaf.pdf) used statistics in order to calculate the optimal investment strategy
+    # rewrite this. be more specific than just "statistics"
+    # could again mention what sort of assumptions are being used, or just pick out a relevant paraphrasing of the abstract
 	
 	Goal was to implement this method in our code
 
@@ -43,6 +52,12 @@ Phase 2: Math-based investment strategy
 
 	This method appeared to be successful since the stocks recommended seemed to have mostly positive trends
 
+# information is fine, though I would reformat it to make it sound better
+# So would start with mentioning what the method is (finding optimal investment strategy given a long list of ~500 stocks or so)
+# Would call inputs "parameters" instead
+# If you want, you can include sample outputs (should be realitvely easy since now we have sample refactored outputs)
+
+# Can talk a bit about what assumptions this model uses too and in what circumstances you'd expect it to work really well
 
 
 
